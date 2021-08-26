@@ -6,8 +6,7 @@ I am a fullstack and Android engineer based in Nairobi, I enjoy bridging the gap
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-leparteleg&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Denis-leparteleg&theme=default" /></td>
-  </tr>   
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Denis-leparteleg&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
 </table>
 </center>
 
