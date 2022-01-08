@@ -28,7 +28,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 <a href="https://www.buymeacoffee.com/denisleparteleg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 175px !important;" ></a>
 
 
-<h3>Where to find me</h3>
+#### Collaborate & Connect
 <p><a href="https://github.com/Denis-leparteleg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/denisleparteleg" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://ke.linkedin.com/in/denis-leparteleg-a47410117" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </p>
 
