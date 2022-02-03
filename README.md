@@ -18,9 +18,12 @@ I'm a full-stack web and app developer based in Nairobi,Kenya. I enjoy bridging 
 </center>
 
  #### Languages and Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="37px" height="37px" /> <img 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="37px" height="37px" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="37px" height="37px" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="37px" height="37px" /> <img 
-src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="37px" height="37px" /> <img                                                                                                                                   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="37px" height="37px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="37px" height="37px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Java" width="37px" height="37px" />
+src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="37px" height="37px" /> <img                                                                                                                                   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="37px" height="37px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="37px" height="37px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="37px" height="37px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="37px" height="37px" />
+
 
 
 
